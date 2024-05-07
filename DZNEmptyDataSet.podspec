@@ -14,4 +14,6 @@ Pod::Spec.new do |s|
   s.source_files  = 'Classes', 'Source/**/*.{h,m}'
   s.requires_arc  = true
   s.framework     = "UIKit"
+  
+  s.resource_bundles = {'DZNEmptyDataSet' => ['Source/PrivacyInfo.xcprivacy']}
 end

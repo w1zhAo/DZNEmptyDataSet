@@ -67,6 +67,8 @@
 
 /* Begin PBXFileReference section */
 		1C26D4C95382E14DAC506EE2 /* Pods-EmptyDataSetTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EmptyDataSetTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-EmptyDataSetTests/Pods-EmptyDataSetTests.debug.xcconfig"; sourceTree = "<group>"; };
+		20EB59752BEA109000CCF9C1 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = ../../Source/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		20EB59762BEA109C00CCF9C1 /* DZNEmptyDataSet.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = DZNEmptyDataSet.podspec; path = ../../DZNEmptyDataSet.podspec; sourceTree = "<group>"; };
 		23BB766D928F8635A201F389 /* Pods_EmptyDataSetTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EmptyDataSetTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B3456B9A6D72D48F19A7F61 /* Pods-DZNEmptyDataSetTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DZNEmptyDataSetTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DZNEmptyDataSetTests/Pods-DZNEmptyDataSetTests.debug.xcconfig"; sourceTree = "<group>"; };
 		78C5DC4B343BE997FFAA0048 /* Pods_DZNEmptyDataSetTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DZNEmptyDataSetTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -212,6 +214,8 @@
 				F58A3E4C1E66AF400086E0EF /* UIScrollView+EmptyDataSet.h */,
 				F58A3E4D1E66AF400086E0EF /* UIScrollView+EmptyDataSet.m */,
 				F58A3E361E66AEE90086E0EF /* Info.plist */,
+				20EB59752BEA109000CCF9C1 /* PrivacyInfo.xcprivacy */,
+				20EB59762BEA109C00CCF9C1 /* DZNEmptyDataSet.podspec */,
 			);
 			path = DZNEmptyDataSet;
 			sourceTree = "<group>";
